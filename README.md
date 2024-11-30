@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Olympic Data Project
 
 ## Overview
@@ -27,3 +28,7 @@ Also, review "Build SSIS Pipelines" for more information about each task, "Busin
 If you have any questions, suggestions, or feedback, feel free to reach out:
 - **Email**: [My Email](mailto:salahalgamasy@gmail.com)
 - **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/salah-muhammad-65287b243/)
+=======
+# Olympic-History-ETL-with-SQL-and-SSIS
+A project to integrate and analyze historical Olympic data using Microsoft SQL Server and SSIS through an ETL processes.
+>>>>>>> cd22165fc339dde7ab40211c291946dd72f0b2ba
